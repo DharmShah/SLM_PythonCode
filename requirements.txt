@@ -1,0 +1,55 @@
+# ==========================================================
+# PyTorch (Install Separately)
+# ==========================================================
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+# ==========================================================
+# Hugging Face
+# ==========================================================
+
+transformers
+accelerate
+datasets
+trl
+peft
+evaluate
+
+# ==========================================================
+# Quantization
+# ==========================================================
+
+bitsandbytes
+
+# ==========================================================
+# Tokenizer
+# ==========================================================
+
+tokenizers
+sentencepiece
+safetensors
+huggingface_hub
+
+# ==========================================================
+# Utilities
+# ==========================================================
+
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+protobuf
+einops
+psutil
+packaging
+
+# ==========================================================
+# Optional
+# ==========================================================
+
+python-dotenv
+jupyter
+ipywidgets
+fastapi
+uvicorn
+faiss-cpu
